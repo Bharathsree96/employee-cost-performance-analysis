@@ -37,3 +37,26 @@ the entire pipeline from raw messy data to clean, enriched output.
 
 ## Project Structure
 
+├── data/
+│ ├── project_cost_data.csv
+│ ├── employee_data.csv
+│ └── seniority_data.csv
+├── employee_cost_analysis.ipynb
+└── README.md
+
+
+---
+
+## Key Steps
+1. Loaded 3 disconnected datasets with missing values 
+   and inconsistent formatting
+2. Standardised employee names and merged records 
+   across all datasets
+3. Imputed missing costs using running averages
+4. Applied bonus rules for completed projects
+5. Applied designation-level cost adjustments
+6. Aggregated final employee costs using group-by logic
+
+---
+
+*Capstone Project — SkilloVilla Python Fundamentals (Jul 2026)*
