@@ -36,12 +36,8 @@ the entire pipeline from raw messy data to clean, enriched output.
 ---
 
 ## Project Structure
-
-├── data/
-│ ├── project_cost_data.csv
-│ ├── employee_data.csv
-│ └── seniority_data.csv
-├── employee_cost_analysis.ipynb
+├── Capstone Project Notebook.ipynb
+├── Capstone_Project_Bharath.ipynb
 └── README.md
 
 
